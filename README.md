@@ -1,0 +1,2 @@
+# Task-Management-System
+ It will help to identify project manager, how many numbers of users are involved in particular project and on what module currently they are working. Project manager has the authority to set time limit for working on particular module and the users have to submit the work on limited time. This system also facilitate to work on agile method which help the project manager to complete the taken project on time with more accuracy.
